@@ -1,5 +1,4 @@
-### Hi there 👋
-
+![Banner](../img/HARPER_FOLEY.png)
 <!--
 **hfoley2013/hfoley2013** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

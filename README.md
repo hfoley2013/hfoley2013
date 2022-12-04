@@ -1,4 +1,4 @@
-![Banner](../img/HARPER_FOLEY.png)
+<img src="./img/HARPER_FOLEY.png" alt="banner" width="720">
 <!--
 **hfoley2013/hfoley2013** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

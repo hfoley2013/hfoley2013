@@ -4,7 +4,7 @@
     <img src="./img/linkedIn.png" href="https://www.linkedin.com/in/harper-e-foley/" alt="linkedin" target="_blank"/>
     <img src="./img/gmail.png" href="mailto:harper.e.foley@gmail.com" alt="gmail" target="_blank"/>
   </div> -->
-  <div class="visitors" style="text-align: center; margin: 0.5rem;">
+  <div class="visitors" style="text-align: center; margin: 0.5rem; width: 10%">
     <img src="https://visitor-badge.glitch.me/badge?page_id=hfoley2013&left_color=blue&right_color=lightgrey" alt="visitor_bage"/>
   </div>
 </div>

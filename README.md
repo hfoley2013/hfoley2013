@@ -5,6 +5,6 @@
     <img src="./img/gmail.png" href="mailto:harper.e.foley@gmail.com" alt="gmail" target="_blank"/>
   </div> -->
   <div class="visitors" style="text-align: center; margin: 0.5rem;">
-    <img src="https://visitor-badge.glitch.me/badge?page_id=hfoley2013&left_color=blue&right_color=lightgrey">
+    <img src="https://visitor-badge.glitch.me/badge?page_id=hfoley2013&left_color=blue&right_color=lightgrey" alt="visitor_bage"/>
   </div>
 </div>

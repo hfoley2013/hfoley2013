@@ -4,7 +4,7 @@
 
 ## Harper Foley
 
-Greetings! I'm Harper Foley, a full-stack software developer with a passion for distilling complex technical concepts into layman's terms. My background in tech investment banking and Navy Special Operations has equipped me with the skills to effectively communicate with both technical and non-technical stakeholders. I take pride in enabling my team's success and gaining the support of senior leadership through clear and concise explanations.
+Hello! I'm Harper Foley, a full-stack software developer with a passion for distilling complex technical concepts into layman's terms. My background in tech investment banking and Navy Special Operations has equipped me with the skills to effectively communicate with both technical and non-technical stakeholders. I take pride in enabling my team's success and gaining the support of senior leadership through clear and concise explanations.
 
 ## Thriving in High-Risk and Ambiguous Environments
 

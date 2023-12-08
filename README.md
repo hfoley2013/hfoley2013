@@ -7,9 +7,11 @@
 As the Founder of Rainier Digital Solutions, I'm on a mission to empower small and medium-sized businesses (SMBs) owners to thrive in the digital age. Drawing from my own entrepreneurial journey, I understand the critical importance of focusing on core business operations while ensuring a strong online presence.
 
 <strong>𝐘𝐨𝐮𝐫 𝐆𝐫𝐨𝐰𝐭𝐡, 𝐎𝐮𝐫 𝐄𝐱𝐩𝐞𝐫𝐭𝐢𝐬𝐞</strong>
+
 At Rainier Digital Solutions, we specialize in providing top-notch web development services. Our passion lies in crafting seamless, user-friendly digital experiences that resonate with your target audience. We recognize that as an entrepreneur, your time is your most valuable asset. Let us handle the technical aspects of maintaining and enhancing your online presence, allowing you to focus on what truly matters – running and growing your business.
 
 <strong>𝐒𝐌𝐁 𝐅𝐨𝐜𝐮𝐬</strong>
+
 Our core expertise is in helping small & medium business owners take their websites to the next level. We take pride in being the trusted partner that emerging businesses turn to for their web development needs. Whether you're just starting out or a season business owner seeking to elevate your online presence, we're here to turn your vision into digital reality.
 
 ## Let's Connect

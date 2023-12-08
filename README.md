@@ -4,22 +4,16 @@
 
 ## Harper Foley
 
-Hello! I'm Harper Foley, a full-stack software developer with a passion for distilling complex technical concepts into layman's terms. My background in tech investment banking and Navy Special Operations has equipped me with the skills to effectively communicate with both technical and non-technical stakeholders. I take pride in enabling my team's success and gaining the support of senior leadership through clear and concise explanations.
+As the Founder of Rainier Digital Solutions, I'm on a mission to empower small and medium-sized businesses (SMBs) owners to thrive in the digital age. Drawing from my own entrepreneurial journey, I understand the critical importance of focusing on core business operations while ensuring a strong online presence.
 
-## Thriving in High-Risk and Ambiguous Environments
+<strong>𝐘𝐨𝐮𝐫 𝐆𝐫𝐨𝐰𝐭𝐡, 𝐎𝐮𝐫 𝐄𝐱𝐩𝐞𝐫𝐭𝐢𝐬𝐞</strong>
+At Rainier Digital Solutions, we specialize in providing top-notch web development services. Our passion lies in crafting seamless, user-friendly digital experiences that resonate with your target audience. We recognize that as an entrepreneur, your time is your most valuable asset. Let us handle the technical aspects of maintaining and enhancing your online presence, allowing you to focus on what truly matters – running and growing your business.
 
-I thrive in fast-paced, high-risk, and ambiguous environments. Throughout my military career, I led teams of bomb technicians in challenging and dynamic situations, where adaptability and quick thinking were crucial. These experiences have sharpened my ability to perform under pressure and find effective solutions in the face of uncertainty.
-
-## Leadership and Mentorship
-
-As a leader, I find immense joy in guiding and mentoring my teammates. Advocating for their career progressions and supporting their growth is a top priority for me. I believe in fostering a collaborative and supportive environment that empowers individuals to reach their full potential.
-
-## The Joy of Software Development
-
-Being an engineer and builder at heart, software development is a perfect fit for my innate curiosity and problem-solving nature. I love the process of inventing and simplifying, but my greatest joy comes from tackling complex problems alongside highly intelligent and driven individuals. Collaborating with a team of like-minded individuals on intricate challenges is where I find the most satisfaction.
+<strong>𝐒𝐌𝐁 𝐅𝐨𝐜𝐮𝐬</strong>
+Our core expertise is in helping small & medium business owners take their websites to the next level. We take pride in being the trusted partner that emerging businesses turn to for their web development needs. Whether you're just starting out or a season business owner seeking to elevate your online presence, we're here to turn your vision into digital reality.
 
 ## Let's Connect
 
-If you're interested in collaborating on projects, discussing leadership and mentorship, or exploring the world of software development, I would love to connect with you. Feel free to reach out to me via email at harper.e.foley@gmail.com or connect with me on LinkedIn at [linkedin.com/in/harper-e-foley/](https://www.linkedin.com/in/harper-e-foley/). You can also explore my GitHub profile at [github.com/hfoley2013](https://github.com/hfoley2013) to discover more about my work and projects.
+If you're interested in collaborating on projects, discussing leadership and mentorship, or exploring the world of software development, I would love to connect with you. Feel free to reach out to me via email at <a href="mailto:harper@rainierdigitalsolutions.com">harper@rainierdigitalsolutions.com</a> or connect with me on LinkedIn at [linkedin.com/in/harper-e-foley/](https://www.linkedin.com/in/harper-e-foley/). You can also explore my GitHub profile at [github.com/hfoley2013](https://github.com/hfoley2013) to discover more about my work and projects.
 
 I'm excited to engage with driven individuals and continue my journey of growth and innovation in the captivating field of software development!

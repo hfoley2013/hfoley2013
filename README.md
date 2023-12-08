@@ -1,5 +1,5 @@
 <div class="banner" style="display: flex; flex-direction: column; position: relative;">
-  <img src="./img/banner_img.png" alt="banner" id="banner" width="100%">
+  <img src="./img/rds-banner.jpeg" alt="Rainier Digital Solutions" id="banner" width="100%">
 </div>
 
 ## Harper Foley

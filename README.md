@@ -1,21 +1,90 @@
 <div class="banner" style="display: flex; flex-direction: column; position: relative;">
-  <img src="./img/rds-banner.jpeg" alt="Rainier Digital Solutions" id="banner" width="100%">
+  <img src="./img/rds-banner.jpeg" alt="Harper Foley" id="banner" width="100%">
 </div>
 
-## Harper Foley
+# Harper Foley
 
-As the Founder of Rainier Digital Solutions, I'm on a mission to empower small and medium-sized businesses (SMBs) owners to thrive in the digital age. Drawing from my own entrepreneurial journey, I understand the critical importance of focusing on core business operations while ensuring a strong online presence.
+**SpecOps → Banking → Engineering & AI Product Leadership**  
+Building secure, scalable systems with precision, discipline, and purpose.
 
-<strong>𝐘𝐨𝐮𝐫 𝐆𝐫𝐨𝐰𝐭𝐡, 𝐎𝐮𝐫 𝐄𝐱𝐩𝐞𝐫𝐭𝐢𝐬𝐞</strong>
+---
 
-At Rainier Digital Solutions, we specialize in providing top-notch web development services. Our passion lies in crafting seamless, user-friendly digital experiences that resonate with your target audience. We recognize that as an entrepreneur, your time is your most valuable asset. Let us handle the technical aspects of maintaining and enhancing your online presence, allowing you to focus on what truly matters – running and growing your business.
+## About Me
 
-<strong>𝐒𝐌𝐁 𝐅𝐨𝐜𝐮𝐬</strong>
+My path has never been linear—and that’s become my competitive advantage.
 
-Our core expertise is in helping small & medium business owners take their websites to the next level. We take pride in being the trusted partner that emerging businesses turn to for their web development needs. Whether you're just starting out or a season business owner seeking to elevate your online presence, we're here to turn your vision into digital reality.
+I’ve served in **special operations**, executed in **investment banking**, built and led **engineering teams**, and now drive **AI and data-security product strategy** for highly regulated industries.  
+
+Across each chapter, my role has been the same:  
+**step into ambiguity, bring structure, and deliver outcomes that matter.**
+
+Today, I work at the intersection of:
+- **Backend engineering & system architecture**  
+- **AI/ML product strategy and secure data pipelines**  
+- **High-stakes leadership and cross-functional execution**  
+- **Security-minded design born from real-world operational experience**
+
+I enjoy building products that demand clarity, reliability, and speed—and leading teams through the problems most people run from.
+
+---
+
+## What I'm Working On
+
+- **AI & Data Security PM** — Leading strategy for tokenization, compliance automation, and AI-powered data workflows.  
+- **CivicStream** — AI that reduces permitting timelines by automating municipal building-code compliance.  
+- **VeteranPCS** — A platform helping military families connect with veteran-friendly real estate agents.  
+- **Daetra Technologies** — Early-stage defense-tech exploring UUV autonomy for mine-countermeasure missions.  
+- **Yuzi** — Tech-enabled postpartum support, education, and doula care.
+
+I build because solving meaningful problems is the throughline of my career.
+
+---
+
+## What Defines My Approach
+
+### **SpecOps Discipline**
+Mission clarity, adaptability, and execution under pressure.  
+I design systems—and lead teams—with the same rigor.
+
+### **Financial Rigor**
+Banking taught me structured thinking, speed, and communicating complex ideas simply.
+
+### **Engineering + Product Hybrid**
+I can go from **vision → architecture → shipping**, ensuring strategy and implementation stay aligned.
+
+### **Security-Minded by Default**
+From specops environments to enterprise systems, I build for resilience.
+
+---
+
+## Focus Areas
+
+- Secure AI system design  
+- High-performance backend systems  
+- Data tokenization & sensitive-data pipelines  
+- RAG & LLM integration  
+- Engineering leadership & product strategy  
+- Complex 0→1 problem spaces  
+
+---
+
+## Tech
+
+**Languages:** TypeScript, Python, Go, SQL  
+**Frameworks:** Next.js, Node, FastAPI  
+**Infra/Data:** AWS, Docker, PostgreSQL, Redis, Snowflake  
+**AI/ML:** Embeddings, RAG pipelines, LLM integration  
+**Product:** PRDs, roadmaps, GTM strategy, cross-functional leadership  
+
+---
 
 ## Let's Connect
 
-If you're interested in collaborating on projects, discussing leadership and mentorship, or exploring the world of software development, I would love to connect with you. Feel free to reach out to me via email at <a href="mailto:harper@rainierdigitalsolutions.com">harper@rainierdigitalsolutions.com</a> or connect with me on LinkedIn at [linkedin.com/in/harper-e-foley/](https://www.linkedin.com/in/harper-e-foley/). You can also explore my GitHub profile at [github.com/hfoley2013](https://github.com/hfoley2013) to discover more about my work and projects.
+Interested in collaborating, talking AI or engineering, or discussing leadership?  
+I’d love to connect.
 
-I'm excited to engage with driven individuals and continue my journey of growth and innovation in the captivating field of software development!
+📧 **harper@rainierdigitalsolutions.com**  
+🔗 **LinkedIn:** https://www.linkedin.com/in/harper-e-foley  
+💻 **GitHub:** https://github.com/hfoley2013  
+
+---

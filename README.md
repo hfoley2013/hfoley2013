@@ -1,90 +1,70 @@
-<div class="banner" style="display: flex; flex-direction: column; position: relative;">
-  <img src="./img/rds-banner.jpeg" alt="Harper Foley" id="banner" width="100%">
-</div>
+# Hi, I'm Harper
 
-# Harper Foley
+I ship AI products from research to production — privacy-preserving AI, LLM-powered automation, and secure data systems for regulated industries.
 
-**SpecOps → Banking → Engineering & AI Product Leadership**  
-Building secure, scalable systems with precision, discipline, and purpose.
+My path: **Navy Special Operations → Investment Banking → Engineering & AI Product Leadership.** Every chapter sharpened the same skill — stepping into ambiguity, building structure, and delivering outcomes under pressure.
 
----
-
-## About Me
-
-My path has never been linear—and that’s become my competitive advantage.
-
-I’ve served in **special operations**, executed in **investment banking**, built and led **engineering teams**, and now drive **AI and data-security product strategy** for highly regulated industries.  
-
-Across each chapter, my role has been the same:  
-**step into ambiguity, bring structure, and deliver outcomes that matter.**
-
-Today, I work at the intersection of:
-- **Backend engineering & system architecture**  
-- **AI/ML product strategy and secure data pipelines**  
-- **High-stakes leadership and cross-functional execution**  
-- **Security-minded design born from real-world operational experience**
-
-I enjoy building products that demand clarity, reliability, and speed—and leading teams through the problems most people run from.
+Today I lead AI product strategy at **Capital One**, where I took a research insight on tokenization + AI and turned it into a shipped product reaching ~2,200 banks. On the side, I build and launch my own products end-to-end with code.
 
 ---
 
-## What I'm Working On
+## What I Work On
 
-- **AI & Data Security PM** — Leading strategy for tokenization, compliance automation, and AI-powered data workflows.  
-- **CivicStream** — AI that reduces permitting timelines by automating municipal building-code compliance.  
-- **VeteranPCS** — A platform helping military families connect with veteran-friendly real estate agents.  
-- **Daetra Technologies** — Early-stage defense-tech exploring UUV autonomy for mine-countermeasure missions.  
-- **Yuzi** — Tech-enabled postpartum support, education, and doula care.
-
-I build because solving meaningful problems is the throughline of my career.
-
----
-
-## What Defines My Approach
-
-### **SpecOps Discipline**
-Mission clarity, adaptability, and execution under pressure.  
-I design systems—and lead teams—with the same rigor.
-
-### **Financial Rigor**
-Banking taught me structured thinking, speed, and communicating complex ideas simply.
-
-### **Engineering + Product Hybrid**
-I can go from **vision → architecture → shipping**, ensuring strategy and implementation stay aligned.
-
-### **Security-Minded by Default**
-From specops environments to enterprise systems, I build for resilience.
+- Privacy-preserving AI & secure data pipelines (tokenization, compliance automation)
+- RAG systems & LLM integration for enterprise workflows
+- AI evaluation frameworks (multi-variable regression, BERT classification)
+- Prompt engineering & optimization at scale (100+ iteration cycles)
+- 0-to-1 product development — research → prototype → ship
+- AI inference pipelines (Snowflake Cortex, Databricks Genie)
+- Full-stack prototyping with Python, TypeScript, Next.js, and Claude Code
+- AI cost modeling & production tradeoff analysis
 
 ---
 
-## Focus Areas
+## What I'm Building
 
-- Secure AI system design  
-- High-performance backend systems  
-- Data tokenization & sensitive-data pipelines  
-- RAG & LLM integration  
-- Engineering leadership & product strategy  
-- Complex 0→1 problem spaces  
+| Project | What It Does |
+|---------|-------------|
+| **[Capital One Databolt](https://www.capitalone.com/software/)** | AI-powered tokenization product — 4M+ tokens/sec, launched April 2025, serving enterprise banks via Zelle network |
+| **[CivicStream](https://civicstream.ai)** | LLM-powered municipal permit review using Claude + Perplexity APIs — 60% faster compliance cycles |
+| **[VeteranPCS](https://veteranpcs.com)** | Platform connecting military families with veteran-friendly real estate agents — scaled from $35M to $200M+ volume |
+| **[Yuzi Care](https://yuzicare.com)** | Tech-enabled postpartum support and doula care — $180K+ initial sales |
 
 ---
 
-## Tech
+## How I Think About Building
 
-**Languages:** TypeScript, Python, Go, SQL  
-**Frameworks:** Next.js, Node, FastAPI  
-**Infra/Data:** AWS, Docker, PostgreSQL, Redis, Snowflake  
-**AI/ML:** Embeddings, RAG pipelines, LLM integration  
-**Product:** PRDs, roadmaps, GTM strategy, cross-functional leadership  
+**Research → Architecture → Tradeoffs → Ship → Measure**
+
+I treat AI product development as empirical science. At Capital One, I designed eval frameworks comparing tokenization vs. raw vs. masked data using multi-variable regression (99.7% vs 80% effectiveness) and BERT classification models. I prototype with real code, validate with data, and ship when the evidence says go.
+
+**Background that shapes my approach:**
+- **SpecOps (8 years)** — 500+ high-risk operations. Mission clarity, adaptability, execution under uncertainty. Led teams through problems most people avoid.
+- **Investment Banking (Houlihan Lokey)** — $3.5B+ in M&A deals. Structured thinking, speed, and communicating complex ideas simply.
+- **Engineering + Product** — I go from vision → architecture → shipping. Python, TypeScript, Next.js, AWS — I build what I spec.
+
+---
+
+## Tech Stack
+
+**Languages:** Python, TypeScript, JavaScript, SQL, Go
+**Frameworks:** Next.js, React, Node, FastAPI
+**Infra & Data:** AWS, Docker, PostgreSQL, MongoDB, Redis, Snowflake
+**AI/ML:** RAG pipelines, LLM integration, embeddings, evaluation frameworks, prompt engineering
+**Tools:** Claude Code, Anthropic API, Perplexity API, Databricks, Snowflake Cortex
+
+---
+
+## Education
+
+🎓 **MBA** — University of Washington Foster School of Business (2025)
+🎓 **BS** — United States Naval Academy (History, Aero Engineering & Japanese minor)
 
 ---
 
 ## Let's Connect
 
-Interested in collaborating, talking AI or engineering, or discussing leadership?  
-I’d love to connect.
+Building at the intersection of AI, security, and product? I'd love to chat.
 
-📧 **harper@rainierdigitalsolutions.com**  
-🔗 **LinkedIn:** https://www.linkedin.com/in/harper-e-foley  
-💻 **GitHub:** https://github.com/hfoley2013  
-
----
+🔗 [LinkedIn](https://www.linkedin.com/in/harper-e-foley)
+💻 [GitHub](https://github.com/hfoley2013)

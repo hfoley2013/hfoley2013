@@ -66,5 +66,5 @@ I treat AI product development as empirical science. At Capital One, I designed 
 
 Building at the intersection of AI, security, and product? I'd love to chat.
 
-🔗 [LinkedIn](https://www.linkedin.com/in/harper-e-foley)
+🔗 [LinkedIn](https://www.linkedin.com/in/harper-e-foley)</br>
 💻 [GitHub](https://github.com/hfoley2013)

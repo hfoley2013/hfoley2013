@@ -57,7 +57,7 @@ I treat AI product development as empirical science. At Capital One, I designed 
 
 ## Education
 
-🎓 **MBA** — University of Washington Foster School of Business (2025)
+🎓 **MBA** — University of Washington Foster School of Business (2025)</br>
 🎓 **BS** — United States Naval Academy (History, Aero Engineering & Japanese minor)
 
 ---

@@ -47,11 +47,11 @@ I treat AI product development as empirical science. At Capital One, I designed 
 
 ## Tech Stack
 
-**Languages:** Python, TypeScript, JavaScript, SQL, Go
-**Frameworks:** Next.js, React, Node, FastAPI
-**Infra & Data:** AWS, Docker, PostgreSQL, MongoDB, Redis, Snowflake
-**AI/ML:** RAG pipelines, LLM integration, embeddings, evaluation frameworks, prompt engineering
-**Tools:** Claude Code, Anthropic API, Perplexity API, Databricks, Snowflake Cortex
+**Languages:** Python, TypeScript, JavaScript, SQL, Go</br>
+**Frameworks:** Next.js, React, Node, FastAPI</br>
+**Infra & Data:** AWS, Docker, PostgreSQL, MongoDB, Redis, Snowflake</br>
+**AI/ML:** RAG pipelines, LLM integration, embeddings, evaluation frameworks, prompt engineering</br>
+**Tools:** Claude Code, Anthropic API, Perplexity API, Databricks, Snowflake Cortex</br>
 
 ---
 
